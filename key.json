@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "recifly-163304",
+  "private_key_id": "6affb3362736f23f337ce6f365e63a954a4d1d20",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDOs6YYsn1Sbg43\nKkjptOTqgDRMKK8xe+G0tNsu2hhZ2XyWvUVqIX/81YieVRLeoCCb5uBzfVzdoSED\nSMoRGQR7iK9rcWQIVcGv9SW7/ZM1jZfVS+kDjiTbr7GdG1LlRVeb5mP/yNnaDP3f\nrRpSTrVKRLVXeCFPkgF1bC6DNULZz3xkycqflwvYm8TwqJ524+OfaOnnDb8mmAPU\nart2MbVIdk9mnUg8ti+wmg9P7fjrJEEg4SUUbgUlMFDrjeUcSz86sSh1Ba3PIF8i\nR6VbvMpPleNxgfypu88s+uCOej+JVyzeFGblPfoh5TpYEdw283f0mTo2zPKC002E\ngxTWn1yvAgMBAAECggEAU/PPUFSeZe5hQ7Ke7p0UJNJxa0VS8qw4Hece5saaAVQ+\nMBMrsFFu5EfuNzCie11aITgCjaWrJDEfcXAM8ijRE0OOy/rAAEqkYk0VSGdTdPrP\nYkh0mYcQHVIct4yzfH9Pd/h5QRhYsyF3s3NhL3DcXQ/O/3nBPco1YXXQ5mWpg0Dx\nd1C/1JrjMOvZiADmLaFhk2cmiRO56hzPzCpfI93RgmENr+5j5N8jtW+XJnLRRbXz\n1jHcDaeB9NaZu+NKy+rEHsWWEp2KWndjoZq2gXI7jwa8s05AtwQkadZGC9yg108J\nLHTV5YlOsU4RPIBhmTZoXmZuQbr7Ghj9R/6Ybe4yoQKBgQDtWt3qY92CtgpBHFt/\n0DGU8T8kP4kuqeYlrIOBWq3VOxV9T/Jmw2tdfKZgpkES7W1DouJAlUYQB4TrNHpL\nfTt4Oyca815RhRa7pB1RB9l/6WCAJbwT3UfSK8XosH9RxZaemWYUUvL3n5sc8abA\nQS+bbMcx4Y5kwCFJzWokLHHIhwKBgQDe8FsZ+7j/wn+Qcu3TyHVW9o6fUQ2zfxyG\n/gHulpJ2H2Vl4bF65mwcioQ/aBWAZ8jdLP/j8Y0tJPk3kMAYCsNgCYGBFphKRA7Z\ntQBWjrOitvlRu+Kle5mFf0lR8Zzcwu0ea8kr3enyf9vL22QHnPnM+xa2/HZioAN7\nLMxXgoJcmQKBgC42eu6f8wj4GJcExmvkRUMSlZChLjx/p+e95vzQgvf5QP3dCv0n\nH0hcdKhstk7RG20H0bVxWurUC/UfipAYGfQW0E5XBA4rM3nlQi/8r0RQVBGfRzc2\n5jzteOMNOjzZk7HdfBqI6/V6heDky+qyxmoki8QSfn7vSYvtCrVwUdcRAoGADd2N\nDPSm8OE75dQADqftBFeZTzdPTtadA5hQrnIW8dnKCKgczbP/DVdgGkFy9OV/jKH7\n2EVxrlkaVuZdzCD/Pb3ZnBm3pwbMlaW4O6nsajZPE1JIKlqhlbfw63PHecN10+qI\nPH40yqxBE1C1y/NrZeBH7WGOS1wAW2zR2K95RCECgYAD8sSE2DyvrKrAoUJ1HLzR\naMmsKIM57FdRi5oemA5FNJk1RexbK4/iTcSQ7Zdfhz8OJXmIsoJ3bH4AJQdV2wGN\nFYV4SwsOSuVMZ55lMMhHsGBwq/8oYkRRWO5bRBjnwls41Cy63ThBhnpLRqXt+lBC\n2OYLViaCQO/jQT4j4Uh4HA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-quickstart@recifly-163304.iam.gserviceaccount.com",
+  "client_id": "109677503575724589634",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-quickstart%40recifly-163304.iam.gserviceaccount.com"
+}
