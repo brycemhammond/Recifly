@@ -1,4 +1,27 @@
-# Node Cloud Vision API
+# Recifly
+
+Recifly is a web-based application designed to analyze pictures of food items, and return a set of recipes that incorporate those particular food items found in the pictures.
+
+This application was built during the NSBE 2017 National Hackathon with over 100 competitors. [#NSBE43](http://convention.nsbe.org/hackathon/)
+
+## Purpose
+
+The purpose of this application is to automate the process of choosing what to make with a set of available food items (aka ingredients). This application saves users time and money. The application encourages users to take advantage of the food they have or provides a unique method to determine how to meal prep. The target audience includes any sets of users that cook on a semi-frequent basis (e.g., families, college students, single employees).
+
+## Operation
+
+The pictures are uploaded to the website by the user. Recify analyzes the pictures using the Vision API, returning labels of the food items as a list. This information is queried via the Yummly API, which returns a JSON response. This response is parsed to identify the recipes that incorporates all of the food items on the list. The recipes are displayed to the user using pictures and descriptive captions.
+
+## Elements
+
+* HMTL, CSS, Javascript - Used to create the front-end display for the user to interact with the user
+* Node.js - Used to interface between the APIs and the front-end display
+* [Google Cloud Vision API](https://cloud.google.com/vision/) - Used to recognize and label objects in photos
+* [Yummly API](https://developer.yummly.com/#the-api) - Used to find recipe alternatives when provided with ingredient queries 
+
+___
+
+## Node Cloud Vision API
 node-cloud-vision-api is a node client wrapper for Cloud Vision API.
 
 Cloud Vision API Docs
@@ -133,7 +156,26 @@ See more in [test_annotate_remote.js](https://github.com/tejitak/node-cloud-visi
 
 Recommended node version is above v4.0.0 because this module is implemented with ES6.
 
+___
 
 ## How to create a PR
 
-Fork the repository and create a PR to 'develop' branch.
+Fork the repository and create a PR to 'dev' branch.
+
+## Authors
+  
+* [Anwaar Bastien](https://github.com/abastien236) (*Front End Developer*)  
+* [Bryce Hammond](https://github.com/brycemhammond) (*Front End Developer*)
+* [Marquel Hendricks](https://github.com/MarquelH) (*Front End Developer*)
+* [Joshua Land](https://github.com/joshland96) (*Back End Developer*)
+* [Favour Nerrise](https://github.com/favour-nerrise) (*Back End Developer*)
+* [Reginald Padgett](https://github.com/curbsidefool) (*Back End Developer*)
+* [Jordan Tyner](https://github.com/jtyner19) (*README Editor*)
+
+## Acknowledgments
+
+* Hackathon Sponsors
+  - Google
+  - Two Sigma
+  - Rockwell Collins
+  - Cox Automotive
